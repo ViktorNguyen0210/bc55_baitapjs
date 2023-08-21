@@ -16,5 +16,5 @@ var ketQua = "Kết quả: " + tong
 var result = document.getElementById("result");
 
 result.innerText = ketQua;
-
+// cập nhật
 }
